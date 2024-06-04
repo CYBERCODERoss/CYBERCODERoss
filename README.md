@@ -1,3 +1,7 @@
+[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://github.com/CYBERCODERoss)
+<h1 align="center">Hi 👋, I'm Talat Faheem</h1>
+<h3 align="center">A passionate DevSecOps & BackEnd Eng.</h3>
+
 # 💫 About Me:
 - 🌱 I’m currently learning **Back-End, Golang, Kubernetes**<br><br>- 💬 Ask me about **DevOps Tools, Python, C++, Networking**<br><br>- 📫 How to reach me **cybertech75@proton.me**<br><br>- ⚡ Fun fact **I've likely generated enough keystrokes in your lifetime to fill several novels!**
 
