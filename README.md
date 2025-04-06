@@ -91,7 +91,7 @@
     <a href="mailto:talatfm2004@gmail.com">
         <img src="https://img.shields.io/badge/Email-Contact%20Me-brightgreen?style=for-the-badge&logo=gmail">
     </a>
-    <a href="https://talat-fm.com" target="_blank">
+    <a href="buymeacoffee.com/talatfm200k" target="_blank">
         <img src="https://img.shields.io/badge/Blog-Articles-orange?style=for-the-badge&logo=blogger">
     </a>
 </p>
