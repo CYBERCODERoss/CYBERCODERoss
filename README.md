@@ -101,7 +101,6 @@
 <h2>☕ Support My Work</h2>
 <p align="center">If you enjoy my work, consider buying me a coffee!</p>
 <div align="center">
-    <a href="https://buymeacoffee.com/talatfm200k" target="_blank">
-        <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="width:200px;">
+<a href="https://www.buymeacoffee.com/talatfm200k" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
     </a>
 </div>
