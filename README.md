@@ -83,11 +83,6 @@
 
 ---
 
-<h2>📈 GitHub Contributions</h2>
-
-
----
-
 <h2>📫 Get in Touch</h2>
 <p align="center">
     <a href="https://www.linkedin.com/in/talat-fm" target="_blank">
