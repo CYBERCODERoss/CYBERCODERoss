@@ -1,6 +1,5 @@
 <h1 align="center">Hello, I'm Talat Faheem <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 <p align="center">A passionate <strong>DevOps Engineer</strong> with a love for designing scalable and efficient systems. 🚀</p>
-
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/DevOps-Enthusiast-blueviolet"></a>
   <a href="mailto:talatfm2004@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-brightgreen"></a>
@@ -63,20 +62,29 @@
 ---
 
 <h2>📈 GitHub Stats</h2>
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=CYBERCODERoss&theme=tokyonight&show_icons=true&locale=en&hide_border=true" alt="GitHub Stats" style="border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);"/>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CYBERCODERoss&theme=tokyonight&hide_border=true" alt="GitHub Streak" style="border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CYBERCODERoss&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" style="border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);"/>
-</div>
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CYBERCODERoss&theme=github_dark" alt="Contribution Graph" style="border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);"/>
+</p>
+<p align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CYBERCODERoss&theme=tokyonight&hide_border=true" alt="GitHub Streak" style="border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);"/> 
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CYBERCODERoss&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" style="border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);"/>
+</p>
 ---
 
 <h2>🏆 Achievements</h2>
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=CYBERCODERoss&theme=onestar&column=4&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" style="border-radius: 10px; box-shadow: 2px 2px 15px #000;"/>
+        <img src="https://github-profile-trophy.vercel.app/?username=CYBERCODERoss&theme=onestar&column=4&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" style="border-radius: 10px; box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.3);"/>
     </a>
 </div>
+
+---
+
+<h2>📈 GitHub Contributions</h2>
+
 
 ---
 
