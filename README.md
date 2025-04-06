@@ -91,7 +91,7 @@
     <a href="mailto:talatfm2004@gmail.com">
         <img src="https://img.shields.io/badge/Email-Contact%20Me-brightgreen?style=for-the-badge&logo=gmail">
     </a>
-    <a href="buymeacoffee.com/talatfm200k" target="_blank">
+    <a href="https://talat-fm.com" target="_blank">
         <img src="https://img.shields.io/badge/Blog-Articles-orange?style=for-the-badge&logo=blogger">
     </a>
 </p>
@@ -101,7 +101,7 @@
 <h2>☕ Support My Work</h2>
 <p align="center">If you enjoy my work, consider buying me a coffee!</p>
 <div align="center">
-    <a href="https://www.buymeacoffee.com/talat-fm" target="_blank">
+    <a href="buymeacoffee.com/talatfm200k" target="_blank">
         <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="width:200px;">
     </a>
 </div>
