@@ -64,9 +64,9 @@
 
 <h2>📈 GitHub Stats</h2>
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=CYBERCODERoss&theme=tokyonight&show_icons=true&locale=en&hide_border=true" alt="GitHub Stats" style="border-radius: 10px; box-shadow: 2px 2px 15px #000;"/>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CYBERCODERoss&theme=tokyonight&hide_border=true" alt="GitHub Streak" style="border-radius: 10px; box-shadow: 2px 2px 15px #000;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CYBERCODERoss&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" style="border-radius: 10px; box-shadow: 2px 2px 15px #000;"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=CYBERCODERoss&theme=tokyonight&show_icons=true&locale=en&hide_border=true" alt="GitHub Stats" style="border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CYBERCODERoss&theme=tokyonight&hide_border=true" alt="GitHub Streak" style="border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CYBERCODERoss&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" style="border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);"/>
 </div>
 
 ---
