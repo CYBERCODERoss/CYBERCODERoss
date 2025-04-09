@@ -65,7 +65,7 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CYBERCODERoss&theme=github_dark" alt="Contribution Graph" style="border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);"/>
 </p>
 <p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CYBERCODERoss&theme=tokyonight&hide_border=true" alt="GitHub Streak" style="border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);"/> 
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CYBERCODERoss&theme=tokyonight&hide_border=true" alt="GitHub Streak" style="border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.4);"/> 
 </p>
 
 <p align="center">
