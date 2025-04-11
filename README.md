@@ -1,106 +1,158 @@
-<h1 align="center">Hello, I'm Talat Faheem <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
-<p align="center">A passionate <strong>DevOps Engineer</strong> with a love for designing scalable and efficient systems. 🚀</p>
+<h1 align="center">Hello, I'm Talat Faheem <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"></h1>
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/DevOps-Enthusiast-blueviolet"></a>
-  <a href="mailto:talatfm2004@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-brightgreen"></a>
-  <a href="https://linkedin.com/in/talat-fm" target="_blank"><img src="https://img.shields.io/badge/Connect-LinkedIn-blue"></a>
+  <a href="https://talat-fm.com"><img src="https://img.shields.io/badge/DevOps%20Engineer-Passionate%20About%20Scalable%20Systems-blueviolet?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
 </p>
 
----
-
-<h2>🔧 Languages & Tools</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="42" height="42"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="42" height="42"/>
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="42" height="42"/>
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="Apache" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="Sequelize" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="42" height="42"/>
+  <a href="mailto:talatfm2004@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-brightgreen?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/talat-fm" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://talat-fm.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-orange?style=flat-square&logo=firefox&logoColor=white"></a>
+  <a href="https://github.com/CYBERCODERoss"><img src="https://img.shields.io/github/followers/CYBERCODERoss?label=Follow&style=flat-square&logo=github&logoColor=white&color=black"></a>
 </p>
 
----
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=CYBERCODERoss&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</div>
 
-<h2>⚙️ Technologies & Frameworks</h2>
+## 💼 About Me
+
+```yaml
+name: Talat Faheem
+role: DevOps Engineer
+focus: ["Cloud Infrastructure", "CI/CD", "Automation", "Containerization"]
+currently_learning: ["Service Mesh", "GitOps", "Chaos Engineering"]
+daily_drivers: ["Kubernetes", "Terraform", "AWS", "Docker", "Prometheus"]
+availability: "Open to exciting DevOps opportunities"
+```
+
+## 🛠️ Tech Stack
+
+<details open>
+<summary><b>Cloud & Infrastructure</b></summary>
+<br>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="42" height="42"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="42" height="42"/>
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="42" height="42"/>
-  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="42" height="42"/>
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="42" height="42"/>
-  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="60" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" alt="Azure" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" alt="Terraform" width="60" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-icon.svg" alt="Vault" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg" alt="Heroku" width="60" height="60"/>
 </p>
+</details>
+
+<details>
+<summary><b>Containers & Orchestration</b></summary>
+<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" alt="Helm" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="60" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="60" height="60"/>
+</p>
+</details>
+
+<details>
+<summary><b>CI/CD & DevOps</b></summary>
+<br>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" alt="Heroku" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="42" height="42"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Hadoop" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/travis/travis-plain.svg" alt="Travis CI" width="42" height="42"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Actions" width="42" height="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/circleci/circleci-plain.svg" alt="CircleCI" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="42" height="42"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/vault-1.svg" alt="Vault" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/travis/travis-plain.svg" alt="Travis CI" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" alt="ArgoCD" width="42" height="42" />
 </p>
+</details>
 
-
-<h2>📈 GitHub Stats</h2>
+<details>
+<summary><b>Monitoring & Observability</b></summary>
+<br>
 <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CYBERCODERoss&theme=github_dark" alt="Contribution Graph" style="border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);"/>
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="42" height="42"/>
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="42" height="42"/>
+  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="42" height="42"/>
+  <img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" alt="Splunk" width="42" height="42"/>
+  <img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" alt="Datadog" width="42" height="42"/>
 </p>
+</details>
+
+<details>
+<summary><b>Programming Languages</b></summary>
+<br>
 <p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CYBERCODERoss&theme=tokyonight&hide_border=true" alt="GitHub Streak" style="border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.4);"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="42" height="42"/>
+</p>
+</details>
+
+<details>
+<summary><b>Databases & Storage</b></summary>
+<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="42" height="42"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="Cassandra" width="42" height="42"/>
+</p>
+</details>
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/CYBERCODERoss">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=CYBERCODERoss&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" height="180em"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CYBERCODERoss&layout=compact&langs_count=8&theme=dark&hide_border=true" height="180em"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CYBERCODERoss&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" style="border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CYBERCODERoss&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
-
-
-<h2>🏆 Achievements</h2>
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=CYBERCODERoss&theme=onestar&column=4&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" style="border-radius: 10px; box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.3);"/>
-    </a>
-</div>
-
----
-
-<h2>📫 Get in Touch</h2>
 <p align="center">
-    <a href="https://www.linkedin.com/in/talat-fm" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-    </a>
-    <a href="mailto:talatfm2004@gmail.com">
-        <img src="https://img.shields.io/badge/Email-Contact%20Me-brightgreen?style=for-the-badge&logo=gmail">
-    </a>
-    <a href="https://talat-fm.com" target="_blank">
-        <img src="https://img.shields.io/badge/Blog-Articles-orange?style=for-the-badge&logo=blogger">
-    </a>
+  <a href="https://github.com/CYBERCODERoss">
+    <img src="https://img.shields.io/badge/View%20My%20GitHub%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  </a>
 </p>
 
----
+## 🏆 GitHub Trophies
 
-<h2>☕ Support My Work</h2>
-<p align="center">If you enjoy my work, consider buying me a coffee!</p>
-<div align="center">
-<a href="https://www.buymeacoffee.com/talatfm200k" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-    </a>
-</div>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=CYBERCODERoss&theme=onestar&column=3&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies"/>
+  </a>
+</p>
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/talat-fm" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:talatfm2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://talat-fm.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Website" />
+  </a>
+</p>
+
+## ☕ Support My Work
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/talatfm200k" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
