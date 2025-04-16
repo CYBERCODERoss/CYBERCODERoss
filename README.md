@@ -7,11 +7,11 @@
   <a href="mailto:talatfm2004@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-brightgreen?style=flat-square&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/talat-fm" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="https://talat-fm.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-orange?style=flat-square&logo=firefox&logoColor=white"></a>
-  <a href="https://github.com/CYBERCODERoss"><img src="https://img.shields.io/github/followers/CYBERCODERoss?label=Follow&style=flat-square&logo=github&logoColor=white&color=black"></a>
+  <a href="https://github.com/talatops"><img src="https://img.shields.io/github/followers/talatops?label=Follow&style=flat-square&logo=github&logoColor=white&color=black"></a>
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=CYBERCODERoss&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=talatops&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </div>
 
 ## 💼 About Me
@@ -107,18 +107,18 @@ availability: "Open to exciting DevOps opportunities"
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/CYBERCODERoss">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=CYBERCODERoss&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" height="180em"/>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CYBERCODERoss&layout=compact&langs_count=8&theme=dark&hide_border=true" height="180em"/>
+  <a href="https://github.com/talatops">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=talatops&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" height="180em"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=talatops&layout=compact&langs_count=8&theme=dark&hide_border=true" height="180em"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CYBERCODERoss&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=talatops&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/CYBERCODERoss">
+  <a href="https://github.com/talatops">
     <img src="https://img.shields.io/badge/View%20My%20GitHub%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
 </p>
@@ -127,7 +127,7 @@ availability: "Open to exciting DevOps opportunities"
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=CYBERCODERoss&theme=onestar&column=3&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=talatops&theme=onestar&column=3&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies"/>
   </a>
 </p>
 
